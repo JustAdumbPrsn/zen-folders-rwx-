@@ -4,12 +4,13 @@
   "author": "RWX",
   "name": "Animated folders",
   "description": "Animated folder icons.",
-  "version": "1.1",
+  "version": "1.2",
   "createdAt": "2025-05-31",
   "updatedAt": "2025-05-31",
   "style": {
     "chrome": "https://raw.githubusercontent.com/JustAdumbPrsn/zen-folders-rwx-/refs/heads/main/userChrome.css"
   },
+  "preferences": "https://raw.githubusercontent.com/JustADumbPrsn/zen-folders-rwx-/main/preferences.json",
   "readme": "https://raw.githubusercontent.com/JustADumbPrsn/zen-folders-rwx-/main/README.md",
   "tags": [
     "content",

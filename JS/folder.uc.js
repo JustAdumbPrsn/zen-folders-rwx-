@@ -137,10 +137,12 @@
       });
       tabGroup._tabGroupIconAttributeObserver = attributeObserver;
 
-      tabGroup._handleMouseEnter = this._handleTabGroupMouseEnter.bind(this);
-      tabGroup._handleMouseLeave = this._handleTabGroupMouseLeave.bind(this);
-      tabGroup.addEventListener("mouseenter", tabGroup._handleMouseEnter);
-      tabGroup.addEventListener("mouseleave", tabGroup._handleMouseLeave);
+      if (Services.prefs.getBoolPref("animated-folder.preview.enabled", true)) {
+        tabGroup._handleMouseEnter = this._handleTabGroupMouseEnter.bind(this);
+        tabGroup._handleMouseLeave = this._handleTabGroupMouseLeave.bind(this);
+        tabGroup.addEventListener("mouseenter", tabGroup._handleMouseEnter);
+        tabGroup.addEventListener("mouseleave", tabGroup._handleMouseLeave);
+      }
 
       const tabLabel = tabGroup.querySelector(".tab-group-label");
       if (tabLabel) {
