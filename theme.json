@@ -10,6 +10,7 @@
   "style": {
     "chrome": "https://raw.githubusercontent.com/JustAdumbPrsn/zen-folders-rwx-/refs/heads/main/userChrome.css"
   },
+  "preferences": "https://raw.githubusercontent.com/JustADumbPrsn/zen-folders-rwx-/main/preferences.json",
   "readme": "https://raw.githubusercontent.com/JustADumbPrsn/zen-folders-rwx-/main/README.md",
   "tags": [
     "content",
