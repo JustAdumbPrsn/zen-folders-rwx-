@@ -15,5 +15,6 @@
     "content",
     "chrome",
     "minimal"
-  ]
+  ],
+  "js": "https://raw.githubusercontent.com/JustADumbPrsn/Zen-Nebula/main/JS/folder.uc.js"
 }
