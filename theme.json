@@ -11,7 +11,7 @@
     "chrome": "https://raw.githubusercontent.com/JustAdumbPrsn/zen-folders-rwx-/refs/heads/main/userChrome.css",
     "content": ""
   },
-  "preferences": "https://raw.githubusercontent.com/JustADumbPrsn/Zen-Nebula/main/preferences.json",
+  "preferences": "",
   "readme": "https://raw.githubusercontent.com/JustADumbPrsn/Zen-Nebula/main/README.md",
   "image": "",
   "tags": [
