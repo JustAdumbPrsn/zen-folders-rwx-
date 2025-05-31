@@ -3,17 +3,14 @@
   "homepage": "https://github.com/JustAdumbPrsn/zen-folders-rwx-",
   "author": "RWX",
   "name": "Animated folders",
-  "description": "",
+  "description": "Animated folder icons.",
   "version": "1.1",
   "createdAt": "2025-05-31",
   "updatedAt": "2025-05-31",
   "style": {
-    "chrome": "https://raw.githubusercontent.com/JustAdumbPrsn/zen-folders-rwx-/refs/heads/main/userChrome.css",
-    "content": ""
+    "chrome": "https://raw.githubusercontent.com/JustAdumbPrsn/zen-folders-rwx-/refs/heads/main/userChrome.css"
   },
-  "preferences": "",
   "readme": "https://raw.githubusercontent.com/JustADumbPrsn/Zen-Nebula/main/README.md",
-  "image": "",
   "tags": [
     "content",
     "chrome",
