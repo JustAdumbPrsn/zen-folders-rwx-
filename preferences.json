@@ -1,0 +1,8 @@
+[
+    {
+        "type": "checkbox",
+        "property": "animated-folder.preview.enabled",
+        "label": "Enable folder preview on hover.",
+        "defaultValue": true
+    }
+]
