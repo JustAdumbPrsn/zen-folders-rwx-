@@ -4,5 +4,11 @@
         "property": "animated-folder.preview.enabled",
         "label": "Enable folder preview on hover.",
         "defaultValue": true
+    },
+        {
+        "type": "checkbox",
+        "property": "zen.folders-rwx.open-background",
+        "label": "Enable folder background while open.",
+        "defaultValue": true
     }
 ]
